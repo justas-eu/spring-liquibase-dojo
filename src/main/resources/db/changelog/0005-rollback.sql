@@ -1,0 +1,1 @@
+DELETE FROM `dojos` where `id` = 3;

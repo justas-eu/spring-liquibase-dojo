@@ -3,6 +3,8 @@ Sample Spring Boot project with Liquibase DB migrations
 Maven commands 
 
 <pre>
+mvn liquibase:status
+
 mvn liquibase:update
 
 mvn liquibase:rollback -Dliquibase.rollbackCount=1

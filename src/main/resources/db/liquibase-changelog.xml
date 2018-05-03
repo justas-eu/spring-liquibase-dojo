@@ -11,4 +11,6 @@
   <include file="changelog/0003-insert-data-dojoers.xml" relativeToChangelogFile="true"/>
   <include file="changelog/0004-insert-data-dojos.xml" relativeToChangelogFile="true"/>
 
+  <include file="changelog/0005-SQL-insert-data-dojos.xml" relativeToChangelogFile="true"/>
+
 </databaseChangeLog>
